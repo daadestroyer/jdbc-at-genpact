@@ -15,7 +15,7 @@ public class TestConnection {
 			}
 		} catch (Exception e) {
 			// TODO: handle exception
-			System.out.println("Something wen wrong");
+			System.out.println("Something went wrong");
 			e.printStackTrace();
 		}
 	}
